@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Hip-Hop Rhythm Basics",
+      "slug": "hip-hop-rhythm-basics",
+      "description": "Learn the fundamentals of hip-hop rhythm and groove to enhance your beats.",
+      "price": 99.99,
+      "instructor": "DJ Spin Master",
+      "isFeatured": true,
+      "image": "/courses/hiphop-rhythm.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Freestyle Rap Essentials",
+      "slug": "freestyle-rap-essentials",
+      "description": "Master the art of freestyle rap with tips and techniques from top artists.",
+      "price": 109.99,
+      "instructor": "MC Blaze",
+      "isFeatured": false,
+      "image": "/courses/freestyle-rap.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Lyric Writing Masterclass",
+      "slug": "lyric-writing-masterclass",
+      "description": "Dive deep into writing impactful and creative lyrics for hip-hop tracks.",
+      "price": 119.99,
+      "instructor": "Lyrical Genius",
+      "isFeatured": true,
+      "image": "/courses/lyric-writing.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Hip-Hop Production Techniques",
+      "slug": "hip-hop-production-techniques",
+      "description": "Learn how to produce hip-hop beats with modern tools and techniques.",
+      "price": 129.99,
+      "instructor": "Beat Maker X",
+      "isFeatured": false,
+      "image": "/courses/hiphop-production.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Storytelling Through Lyrics",
+      "slug": "storytelling-through-lyrics",
+      "description": "Discover how to tell compelling stories through your hip-hop lyrics.",
+      "price": 139.99,
+      "instructor": "Narrative Flow",
+      "isFeatured": false,
+      "image": "/courses/storytelling-lyrics.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Advanced Beat-Making",
+      "slug": "advanced-beat-making",
+      "description": "Create intricate and professional hip-hop beats with advanced techniques.",
+      "price": 149.99,
+      "instructor": "Producer Pro",
+      "isFeatured": true,
+      "image": "/courses/advanced-beatmaking.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Flow and Cadence Mastery",
+      "slug": "flow-and-cadence-mastery",
+      "description": "Perfect your flow and cadence to bring a professional edge to your raps.",
+      "price": 159.99,
+      "instructor": "Flow Master",
+      "isFeatured": false,
+      "image": "/courses/flow-cadence.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Collaborative Songwriting for Hip-Hop",
+      "slug": "collaborative-songwriting",
+      "description": "Learn how to collaborate with other artists to create amazing hip-hop tracks.",
+      "price": 169.99,
+      "instructor": "The Collective",
+      "isFeatured": true,
+      "image": "/courses/collaborative-writing.jpg"
+    },
+    {
+      "id": 9,
+      "title": "History of Hip-Hop Culture",
+      "slug": "history-of-hiphop-culture",
+      "description": "Explore the rich history and evolution of hip-hop culture and music.",
+      "price": 179.99,
+      "instructor": "Professor Beats",
+      "isFeatured": false,
+      "image": "/courses/hiphop-history.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Battle Rap Strategies",
+      "slug": "battle-rap-strategies",
+      "description": "Learn the strategies and techniques to dominate in battle rap competitions.",
+      "price": 189.99,
+      "instructor": "Battle King",
+      "isFeatured": true,
+      "image": "/courses/battle-rap.jpg"
+    }
+  ]
+}
