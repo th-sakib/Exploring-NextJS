@@ -72,16 +72,6 @@
     },
     {
       "id": 8,
-      "title": "Collaborative Songwriting for Hip-Hop",
-      "slug": "collaborative-songwriting",
-      "description": "Learn how to collaborate with other artists to create amazing hip-hop tracks.",
-      "price": 169.99,
-      "instructor": "The Collective",
-      "isFeatured": true,
-      "image": "/courses/collaborative-writing.jpg"
-    },
-    {
-      "id": 9,
       "title": "History of Hip-Hop Culture",
       "slug": "history-of-hiphop-culture",
       "description": "Explore the rich history and evolution of hip-hop culture and music.",
@@ -91,7 +81,7 @@
       "image": "/courses/hiphop-history.jpg"
     },
     {
-      "id": 10,
+      "id": 9,
       "title": "Battle Rap Strategies",
       "slug": "battle-rap-strategies",
       "description": "Learn the strategies and techniques to dominate in battle rap competitions.",

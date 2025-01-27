@@ -19,7 +19,7 @@ export default function HeroSection() {
         </p>
       </div>
       <div>
-        <Link href="/our-courses">
+        <Link href="/courses">
           <Button
             borderRadius="4rem"
             duration={1500}

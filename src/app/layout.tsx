@@ -34,7 +34,7 @@ export default function RootLayout({
         </div>
         {children}
 
-        <div className="relative">
+        <div className="relative h-screen flex flex-col justify-center items-center">
           <Footer />
         </div>
       </body>
