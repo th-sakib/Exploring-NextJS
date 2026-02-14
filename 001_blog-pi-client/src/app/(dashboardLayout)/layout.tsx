@@ -24,6 +24,7 @@ export default function DashboardLayout({
   const userInfo = {
     role: "admin",
   };
+
   return (
     <SidebarProvider>
       <AppSidebar user={userInfo} />
